@@ -1,0 +1,43 @@
+body {
+    background-color: orange;
+}
+
+.logo {
+    margin: 0 auto;
+    width: 200px;
+}
+
+.header-title {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.story {
+  margin: 0 auto;
+    width: 350px;
+}
+
+.photos {
+    margin: 0 auto;
+    width: 950px;
+}
+
+.story2 {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.info {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.llc {
+    margin: 0 auto;
+    width: 100%;
+    border-top: 10px solid black;
+    text-align: center;
+}
+
+/*make sure the container fits the photos*/
+/*must sure to use the correct elements, only headers are numbered*/
